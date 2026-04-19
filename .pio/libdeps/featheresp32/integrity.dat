@@ -1,0 +1,7 @@
+https://github.com/fishros/Esp32McpwmMotor.git
+https://gitee.com/ohhuo/micro_ros_platformio.git
+adafruit/Adafruit SSD1306@^2.5.7
+adafruit/Adafruit PWM Servo Driver Library@^3.0.3
+adafruit/Adafruit_VL53L0X@^1.2.5
+adafruit/Adafruit BusIO@^1.14.0
+https://github.com/fishros/Esp32PcntEncoder.git
